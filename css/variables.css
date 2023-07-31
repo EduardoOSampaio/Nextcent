@@ -1,0 +1,31 @@
+:root {
+    --neutral-black: #263238;
+    --neutral-d-grey: #4D4D4D;
+    --neutral-grey: #717171;
+    --neutral-l-grey: #89939E;
+    --neutral-grey-blue: #ABBED1;
+    --neutral-silver: #F5F7FA;
+    --neutral-white: #FFFFFF;
+    
+    --primary: #28CB8B;
+    --secondary: #263238;
+    --info: #2194f3;
+
+    --color-shade-1: #43A046;
+    --color-shade-2: #388E3B;
+    --color-shade-3: #237D31;
+    --color-shade-4: #1B5E1F;
+    --color-shade-5: #103E13;
+
+    --color-tint-1: #66BB69;
+    --color-tint-2: #81C784;
+    --color-tint-3: #A5D6A7;
+    --color-tint-4: #C8E6C9;
+    --color-tint-5: #E8F5E9;
+
+    --action-warning: #FBC02D;
+    --action-error: #E53835;
+    --action-warning: #2E7D31;
+
+    --text-gray-900: #18191F;
+}
