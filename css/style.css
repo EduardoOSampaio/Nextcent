@@ -58,7 +58,7 @@ main {
 main div.container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 104px;
 }
 
@@ -89,6 +89,7 @@ main div.container div.m-content > a {
 
 section.clients {
   padding: 40px 144px;
+  
 }
 
 section.clients > div.container {
@@ -101,8 +102,8 @@ section.clients div.container > h2 {
 
 section.clients div.container > div.s-clients {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 12vh;
   margin-top: 16px;
 }
 
@@ -167,13 +168,12 @@ div.s-c-group div.member > h3 {
 
 section.unlock {
   padding: 42px 144px;
-  display: grid;
-  place-items: center;
 }
 
 section.unlock div.container {
   display: flex;
   gap: 49px;
+  justify-content: center;
   align-items: center;
 }
 
@@ -214,7 +214,8 @@ section.achievements {
 section.achievements div.container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 72px;
 }
 
 section.achievements div.container .s-a-heading h2, span {
@@ -268,7 +269,8 @@ section.calender {
 section.calender div.container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 50px;
 }
 
 section.calender div.container div.s-c-calender > h2 {
@@ -276,12 +278,14 @@ section.calender div.container div.s-c-calender > h2 {
   line-height: 44px;
   color: var(--neutral-d-grey);
   margin-bottom: 16px;
+  width: 601px;
 }
 
 section.calender div.container div.s-c-calender > p {
   font-size: 1.4rem;
   line-height: 20px;
   margin-bottom: 32px;
+  width: 601px;
 }
 
 section.calender div.container div.s-c-calender > a {
@@ -296,6 +300,7 @@ section.calender div.container div.s-c-calender > a {
 
 section.description {
   display: flex;
+  justify-content: center;
   padding: 48px 132px;
   gap: 78px;
   background-color: var(--neutral-silver);
@@ -453,6 +458,7 @@ footer {
 footer div.container {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 125px;
 }
 
