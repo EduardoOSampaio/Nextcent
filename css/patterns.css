@@ -1,0 +1,29 @@
+h1 {
+    font-size: 5.8rem;
+    line-height: 76px;
+  }
+  
+  h2 {
+    font-size: 3.6rem;
+    line-height: 44px;
+    color: var(--neutral-d-grey);
+  }
+  
+  h3 {
+    font-size: 2rem;
+    line-height: 28px;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-weight: 600;
+  }
+  
+  p {
+    color: var(--neutral-grey);
+  }
+
+  .btn {
+    font-weight: 500;
+  }
