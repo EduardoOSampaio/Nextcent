@@ -167,6 +167,8 @@ div.s-c-group div.member > h3 {
 
 section.unlock {
   padding: 42px 144px;
+  display: grid;
+  place-items: center;
 }
 
 section.unlock div.container {
